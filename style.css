@@ -1,0 +1,12 @@
+.slider {
+    border: 5px solid pink;
+    min-width: 80%;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.slider-line {
+    display: flex;
+    background-color: rgb(235, 19, 224);
+    transition: all ease 1s;
+}
